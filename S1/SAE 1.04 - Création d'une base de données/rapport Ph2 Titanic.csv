@@ -1,0 +1,13 @@
+NomDa , Cle,Def,DomA
+PassengerId,Primaire/Etrangere,Correspond a l'identifiant des passagers,Valeur de type Int(1 a 891).
+Survived,,Correspond a l'etat du passager,Valeur type Bool (0 ou 1).
+Pclass,,Correspond aux classes des passagers,Valeur de type Int(1 a 3).
+Name,,Correspond aux noms des passagers,Valeur de type Str .
+Sex,,Correspond a un type de genre (Homme ou Femme),Valeur de type Str(Homme ou Femme).
+Age,,Correspond a l'age respectif des passagers,Valeur de type Int(0 a 80).
+.SibSp,,Nbrs de frere et soeur et epouse des passagers,Valeur de type Int(0 a 8).
+Parch,,Nbrs de parents et enfants des Passagers,Valeur de type Int(0 a 9).
+Ticket,,Ticket correspond aux tickets des passagers,Valeur de type Str.
+Fare,,Correspond aux prix de l'embarquation,Valeur de type float(0 a 512).
+Cabin,,Correspond aux cabines des passagers,Valeur de type Str.
+Embarked,Etrangere,Correspond a l'embarquation du passager,Valeur de type Str.
