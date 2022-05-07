@@ -1,0 +1,18 @@
+body{
+		background:radial-gradient(#cceeff,#ff9dc8);
+}
+h2{
+	color:#f60239;
+}
+.information p,.changement{
+	color:#ff9dc8;
+}
+h1{
+	color:#f60239;
+}
+.rectangle{
+	background-color:black;
+}
+.image_decor{
+	border:10px solid #ff9dc8;
+}

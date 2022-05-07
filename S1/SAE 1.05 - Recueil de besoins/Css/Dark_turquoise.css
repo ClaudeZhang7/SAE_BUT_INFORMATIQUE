@@ -1,0 +1,18 @@
+body,.rectangle,.rectangle2{
+	background-color:#293133;
+}
+h1,h2{
+	color:#20B2AA;
+}
+p,#planning,.changement{
+	color:#D3D3D3 ;
+}
+
+select{
+	color:#20B2AA ;
+	background-color:#293133;
+
+}
+input{
+	background-color:#D3D3D3;
+}
