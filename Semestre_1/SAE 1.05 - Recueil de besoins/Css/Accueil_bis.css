@@ -1,0 +1,68 @@
+
+header{
+	margin-top:120px;
+}
+#bck_image{
+	height:400px;
+	width:100%;
+	background-image: url("http://image.noelshack.com/fichiers/2021/52/3/1640741748-background.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-top:50px;
+
+}
+h1{
+	text-align: center;
+	color:yellow;
+	position:relative;
+	top:50%;
+}
+h2{
+	color:white;
+}
+
+.story{
+	font-size:140%;
+	
+}
+img{
+	height:450px;
+	width:100%;
+	margin-top:20px;
+}
+.day{
+	font-size:150%;
+}
+.rect{
+	margin-top:40px;
+}
+
+@media screen and (max-width:1020px ){
+	.story{
+		font-size:115%;
+	}
+}
+
+
+@media screen and (max-width:800px ){
+	.story{
+		font-size:100%;
+	}
+}
+
+
+@media screen and (max-width:767px ){
+	.day{
+		font-size:115%;
+	}
+}
+
+@media screen and (max-width:575px ){
+	.story{
+		font-size:150%;
+	}
+	.day{
+		font-size:150%;
+	}
+
+}

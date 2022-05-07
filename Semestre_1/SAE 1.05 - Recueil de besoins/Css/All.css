@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Mea+Culpa&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Luxurious+Roman&display=swap');
+
+/* font-family: 'Mea Culpa', cursive; */
+/* font-family: 'Luxurious Roman', cursive; */
+body{
+		min-height:100%;
+	    height:auto;
+	    max-width:100%;
+	    width:auto;
+	    font-family: 'Luxurious Roman', cursive;
+	
+
+}
+
+nav{
+	background-color:black;
+}
+.nav-item{
+
+font-size:200%;
+padding-left:20px;
+font-family: 'Mea Culpa', cursive;
+
+}
+.navbar-brand{
+	font-size:200%;
+	margin-left:20px;
+	font-family: 'Mea Culpa', cursive;
+
+
+}
+h2,h1{
+	font-family: 'Mea Culpa', cursive;
+}
+
+
+.information{
+	font-size:120%;
+	color:turquoise;
+	background-color:black;
+	margin-top:35px;
+	padding-bottom:10px;
+	font-family: 'Mea Culpa', cursive;
+}
+
+.information p{
+	font-size:140%;
+	font-family: 'Mea Culpa', cursive;
+}
+
+
+.changement{
+	font-size:150%;
+	background-color:black;
+	color:turquoise;
+
+}
+
+#lang{
+	margin-left:50%;
+	font-family: 'Mea Culpa', cursive;
+
+}
+#color{
+	margin-left:2%;
+	font-family: 'Mea Culpa', cursive;
+}
+
+@media screen and (max-width:1300px ){
+	#lang{
+		margin-left:40%;
+	}	
+}
+
+@media screen and (max-width:1120px ){
+	#lang{
+		margin-left:30%;
+	}	
+}
+
+@media screen and (max-width:990px ){
+	#lang{
+		margin-top:40px;
+		margin-left:30%;
+	}	
+	#color{
+		margin-top: -35px;
+		margin-left:55%;
+	}
+}

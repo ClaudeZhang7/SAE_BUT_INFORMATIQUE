@@ -1,0 +1,23 @@
+body{
+	background:radial-gradient(#7cfffa,#ff9dc8);
+}
+
+h1{
+	margin-top:120px;
+}
+#trait{
+	height:6px;
+	width:96%;
+	margin-left:2%;
+	background-color:black;
+	margin-top:20px;
+}
+h2{
+	margin-left:25%;
+	margin-top:20px;
+}
+#planning {
+	margin-left:25%;
+	font-size:150%;
+	margin-top:5px;
+}
