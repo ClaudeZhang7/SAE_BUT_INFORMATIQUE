@@ -1,0 +1,70 @@
+.titre{
+	margin-top:120px;
+	font-family: 'Mea Culpa', cursive;
+}
+
+.definition{
+	margin-top:20px;
+	padding:10px;
+	font-size:135%;
+	margin-left:20px;
+}
+
+
+.size{
+	margin-left:30px;
+	font-size:135%;
+}
+
+#trait{
+	height:6px;
+	width:96%;
+	margin-left:2%;
+	background-color:black;
+	margin-top:20px;
+}
+
+
+.compteR{
+	margin-top:20px;
+}
+
+.rectangle{
+	width:100%;
+	width:auto;
+	height:100%;
+	height:auto;
+	background-color:turquoise;
+}
+
+.rectangle2{
+	width:100%;
+	width:auto;
+	height:100%;
+	height:auto;
+	background-color:white;
+	padding-bottom:10px;
+
+}
+
+.anonyme{
+	height:250px;
+	width :25%;
+	margin-top:100px;
+}
+
+.def_CompteR{
+	font-size:125%;
+	width : 60%;
+	margin-left:30%;
+	margin-top:-300px;
+}
+
+@media screen and (max-width:550px ){
+	.def_CompteR{
+		margin-left:0%;
+		margin-top:30px;
+		width:100%;
+	}
+
+}

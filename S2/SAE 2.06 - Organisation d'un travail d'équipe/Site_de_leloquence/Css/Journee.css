@@ -1,0 +1,120 @@
+
+.titre{
+	margin-top:120px;
+	font-family: 'Mea Culpa', cursive;
+}
+
+.welcome{
+	height:300px;
+	width:100%;
+	margin-top:20px;
+
+}
+
+.para1{
+	font-size:135%;
+	margin-top:20px;
+}
+
+.mid{
+	margin-top:30px;
+}
+
+.para2{
+	font-size:135%;
+	margin-top:15px;
+}
+
+
+.welcome2{
+	height:500px;
+	width:100%;
+}
+
+.carre_info{
+	margin-top:40px;
+}
+
+.rectangle{
+	width:100%;
+	width:auto;
+	height:100%;
+	height:auto;
+	background-color:black;
+}
+
+.infoG{
+	color:turquoise;
+	font-family: 'Mea Culpa', cursive;
+}
+
+.rectangle2{
+	width:100%;
+	width:auto;
+	height:100%;
+	height:auto;
+	background-color:lightblue;
+	padding-bottom:10px;
+
+}
+
+.description, .guest, .lieu,.heure,.size1{
+	margin-left : 20px;
+}
+
+.size1{
+	color:white;
+}
+
+
+.para3, .horraire,.size2{
+	font-size:135%;
+	margin-left : 40px;
+}
+
+.bertrand, .dominik,.logo_iut,.info_lieu{
+	margin-left:40px;
+}
+
+.para4{
+	font-size:135%;
+	margin-left:70px;
+}
+
+
+.logo_iut{
+	height:70px;
+	width:200px;
+}
+
+.info_lieu,.size1{
+	font-size:135%;
+}
+
+.programme{
+	margin-top:40px;
+}
+
+
+
+@media screen and (max-width:1500px ){
+	.para1, .para2{
+		font-size:130%;
+	}
+
+}
+
+
+@media screen and (max-width:1200px ){
+	.para1, .para2{
+		font-size:100%;
+	}
+
+}
+
+@media screen and (max-width:765px ){
+	.para1, .para2{
+		font-size:135%;
+	}
+
+}

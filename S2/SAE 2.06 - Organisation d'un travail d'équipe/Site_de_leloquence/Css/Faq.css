@@ -1,0 +1,93 @@
+.titre{
+	margin-top:120px;
+	font-family: 'Mea Culpa', cursive;
+}
+
+.description{
+	font-size:135%;
+	margin-top:90px;
+	padding:20px;
+}
+
+.img_faq{
+	width:70%;
+	height:300px;
+	margin-top:50px;
+}
+
+#trait{
+	height:6px;
+	width:96%;
+	margin-left:2%;
+	background-color:black;
+	margin-top:20px;
+}
+
+.rectangle{
+	width:100%;
+	width:auto;
+	height:100%;
+	height:auto;
+	background-color:turquoise;
+}
+
+.rectangle2{
+	width:100%;
+	width:auto;
+	height:100%;
+	height:auto;
+	background-color:white;
+	padding-bottom:10px;
+
+}
+
+.form{
+	font-family: 'Mea Culpa', cursive;
+	font-size:135%;
+}
+
+.nom{
+	font-size:135%;
+	margin-left:40px;
+}
+
+#inviter{
+	margin-left:40px;
+}
+
+.qGeneral{
+	font-size:135%;
+	margin-left:40px;
+	margin-top:20px;
+}
+
+#question{
+	margin-left:40px;
+	width:50%;
+	height:150px;
+}
+
+#verifier{
+	margin-left:45px;
+	margin-top:30px;
+	height:70px;
+	width:20%;
+}
+
+@media screen and (max-width:800px ){
+	#question{
+		font-size:90%;
+		
+	}
+
+}
+
+@media screen and (max-width:700px ){
+	#question{
+		font-size:75%;
+		
+	}
+	
+}
+
+
